@@ -1,0 +1,370 @@
+Company Name,Capacity,Owner,Programme,Project Name,Technology Category,Technology,Website,Location 1
+None,40,All IPP,IPP 4,Aggeneys Solar Project,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-29.23579, 18.89766)"
+None,67.9,All IPP,IPP 4,Bokamoso,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"North West
+(-27.15639, 26.39694)"
+None,102,All IPP,IPP 4,Copperton Windfarm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Northern Cape
+(-29.9, 22.35)"
+None,50,All IPP,IPP 4,De Wildt,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"North West
+(-25.641, 27.92517)"
+None,75,All IPP,IPP 4,Droogfontein 2 Solar,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-28.56667, 24.73333)"
+None,75,All IPP,IPP 4,Dyason's Klip 1,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-28.57338, 21.0729)"
+None,75,All IPP,IPP 4,Dyason's Klip 2,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-28.56778, 21.05628)"
+None,31.9,All IPP,IPP 4,Excelsior Wind Energy Facility,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Western Cape
+(-34.22642, 20.22885)"
+None,135.93,All IPP,IPP 4,Garob Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Northern Cape
+(-29.91921, 22.414)"
+None,117.72,All IPP,IPP 4,Golden Valley Wind,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-32.90379, 25.96016)"
+None,55,All IPP,IPP 4,Greefspan PV Power Plant No. 2 Solar Park,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-29.38486, 23.31147)"
+None,136.7,All IPP,IPP 4,Kangnas,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Northern Cape
+(-29.6098, 18.35648)"
+None,100,All IPP,IPP 4,Kathu Solar Park,Concentrated Solar Power,"Concentrated Solar Power with Storage (Min. 3 hours per Day)
+",http://www.saippa.org.za/,"Northern Cape
+(-27.62, 23.02)"
+None,75,All IPP,IPP 4,Konkoonsies II Solar Facility,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-28.89881, 19.55738)"
+None,4.7,All IPP,IPP 4,Kruisvallei Hydro,Small Hydro Power,"Small Hydro
+",http://www.saippa.org.za/,"Free State
+(-28.40408, 28.36379)"
+None,25,All IPP,IPP 4,Ngodwana Energy Project,Biomass Power,"Biomass
+",http://www.saippa.org.za/,"Mpumalanga
+(-25.56667, 30.66194)"
+None,140,All IPP,IPP 4,Oyster Bay Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-34.11639, 24.64889)"
+None,107.76,All IPP,IPP 4,Perdekraal East,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Western Cape
+(-33.05844, 20.11238)"
+None,100,All IPP,IPP 4,Redstone Solar Thermal Power Project,Concentrated Solar Power,"Concentrated Solar Power with Storage (Min. 3 hours per Day)
+",http://www.saippa.org.za/,"Northern Cape
+(-28.29221, 23.37255)"
+None,140,All IPP,IPP 4,Roggeveld Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Northern Cape
+(-32.91257, 20.50924)"
+None,75,All IPP,IPP 4,Sirius Solar PV Project One,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-28.54736, 21.09495)"
+None,75,All IPP,IPP 4,Solar Capital Orange,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-30.52472, 19.60667)"
+None,139.8,All IPP,IPP 4,The Karusa Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Northern Cape
+(-32.86985, 20.63483)"
+None,138.9,All IPP,IPP 4,The Nxuba Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-32.73767, 25.96684)"
+None,139.4,All IPP,IPP 4,The Soetwater Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Northern Cape
+(-32.75318, 20.66263)"
+None,75,All IPP,IPP 4,Waterloo Solar Park,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"North West
+(-27.03875, 24.78167)"
+None,32.7,All IPP,IPP 4,Wesley-Ciskei,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-33.29028, 27.37222)"
+None,75,All IPP,IPP 4,Zeerust,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"North West
+(-25.55447, 26.07488)"
+None,5,All IPP,IPP Small,Adams Solar PV Project (Pty) Ltd,Photovoltaic Power,"Photovoltaic (Other)
+",http://www.saippa.org.za/,"Northern Cape
+(-27.38803, 23.00172)"
+None,5,All IPP,IPP Small,Bellatrix Solar PV Project,Photovoltaic Power,"Photovoltaic (Other)
+",http://www.saippa.org.za/,"Northern Cape
+(-31.53302, 23.18094)"
+None,5,All IPP,IPP Small,Busby Renewables Biomass Project,Biomass Power,"Biomass
+",http://www.saippa.org.za/,"Mpumalanga
+(-26.81201, 30.44063)"
+None,5,All IPP,IPP Small,Du Plessis Solar PV4,Photovoltaic Power,"Photovoltaic (Other)
+",http://www.saippa.org.za/,"Northern Cape
+(-30.64328, 24.01085)"
+None,5,All IPP,IPP Small,George Biomass to Energy Project,Biomass Power,"Biomass
+",http://www.saippa.org.za/,"Western Cape
+(-33.99493, 22.45337)"
+None,5,All IPP,IPP Small,Heuningspruit PV1,Photovoltaic Power,"Photovoltaic (Other)
+",http://www.saippa.org.za/,"Free State
+(-27.45278, 27.41222)"
+None,4,All IPP,IPP Small,Hopefield Community Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Western Cape
+(-33.06393, 18.40815)"
+None,5,All IPP,IPP Small,Klawer Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Western Cape
+(-31.83992, 18.56438)"
+None,5,All IPP,IPP Small,Steynsrus PV1,Photovoltaic Power,"Photovoltaic (Other)
+",http://www.saippa.org.za/,"Free State
+(-27.90472, 27.53167)"
+None,5,All IPP,IPP Small,Steynsrus PV2,Photovoltaic Power,"Photovoltaic (Other)
+",http://www.saippa.org.za/,"Free State
+(-27.90556, 27.54139)"
+ACED Cookhouse South Wind Farm (Pty) Limited,86.6,All IPP,IPP 3,Nojoli Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-32.771, 25.91566)"
+ACWA Power Solafrica Bokpoort CSP Power Plant (RF) Pty Ltd,50,All IPP,IPP 2,Bokpoort CSP project,Concentrated Solar Power,"Concentrated Solar Power with Storage (Min. 3 hours per Day)
+",http://www.saippa.org.za/,"Northern Cape
+(-28.72416, 21.99302)"
+Adams Solar PV Project Two (Pty) Ltd,75,All IPP,IPP 3,Adams Solar PV 2,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-27.37897, 23.01299)"
+AE-AMD Independent Producer 1 (RF) Pty Ltd,9.9,All IPP,IPP 1,Greefspan PV Power Plant,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-29.39378, 23.30771)"
+AE-AMD Independent Producer 3 (RF) Pty Ltd,19.98,All IPP,IPP 1,Herbert PV Power Plant,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-29.00093, 23.79993)"
+Amakhala Emoyeni RE Project 1 (RF) Pty Ltd,133.7,All IPP,IPP 2,Amakhala Wind Project,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-32.74625, 25.93167)"
+Aurora Rietvlei Solar Power (RF) Pty Ltd,9,All IPP,IPP 2,Aurora-Rietvlei Solar Power,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Western Cape
+(-32.64134, 18.49729)"
+Aurora Wind Power (RF) Pty Ltd,90.82,All IPP,IPP 2,Wind Farm West Coast 1,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Western Cape
+(-32.8348, 18.00153)"
+Bethlehem Hydro Pty (Ltd),7,All Private Non-IPP,WEPS,Bethlehem Hydro,Small Hydro Power,"Small Hydro
+",,"Free State
+(-28.224, 28.311)"
+Blue Falcon 140 Trading (RF) Pty Ltd,135.5,All IPP,IPP 2,Gouda Wind Project,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Western Cape
+(-33.26774, 19.04122)"
+Chaba Wind Power (RF) Pty Ltd,21,All IPP,IPP 2,Chaba Wind Power,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-32.58798, 27.97903)"
+Core Energy (RF) Pty Ltd,30,All IPP,IPP 1,Witkop Solar Park,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Limpopo
+(-24.04167, 29.36167)"
+Coria (PKF) Investments 28 (RF) Pty Ltd,75,All IPP,IPP 1,Nobelsfontein Phase 1,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Northern Cape
+(-31.70431, 23.17592)"
+CPV Power Plant No. 1 (RF) Pty Ltd,36,All IPP,IPP 1,Touwsrivier Solar Park,Photovoltaic Power,"Photovoltaic Crystalline Tracking Dual Axis
+",http://www.saippa.org.za/,"Western Cape
+(-33.41321, 19.91981)"
+De Aar Solar Power (RF)(PTY) Ltd,45.6,All IPP,IPP 1,South African Mainstream Renewable Power De Aar PV RF (Pty) Ltd,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-30.619, 24.03389)"
+Dorper Wind Farm (RF) Pty Ltd,97.53,All IPP,IPP 1,Dorper Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-31.47876, 26.44539)"
+Droogfontein Solar Power (RF) Pty Ltd,45.6,All IPP,IPP 1,South African Mainstream Renewable Power Droogfontein (RF) (Pty) Ltd,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-28.612, 24.758)"
+Electra Capital (Pty) Ltd,75,All IPP,IPP 3,Electra Capital (Pty) Ltd,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Western Cape
+(-32.42097, 18.73458)"
+ENER-G Systems Joburg (Pty) Ltd,1.03,All IPP,IPP 3,Joburg Landfill Gas to Electricity - Ennerdale,Landfill Gas Power,"Landfill Gas
+",http://www.saippa.org.za/,"Gauteng
+(-26.36947, 27.83272)"
+ENER-G Systems Joburg (Pty) Ltd,4.04,All IPP,IPP 3,Joburg Landfill Gas to Electricity - Goudkoppies,Landfill Gas Power,"Landfill Gas
+",http://www.saippa.org.za/,"Gauteng
+(-26.28223, 27.92717)"
+ENER-G Systems Joburg (Pty) Ltd,3.17,All IPP,IPP 3,Joburg Landfill Gas to Electricity - Linbro Park,Landfill Gas Power,"Landfill Gas
+",http://www.saippa.org.za/,"Gauteng
+(-26.09375, 28.12133)"
+ENER-G Systems Joburg (Pty) Ltd,4.76,All IPP,IPP 3,Joburg Landfill Gas to Electricity - Marie Louise,Landfill Gas Power,"Landfill Gas
+",http://www.saippa.org.za/,"Gauteng
+(-26.19172, 27.88122)"
+ENER-G Systems Joburg (Pty) Ltd,5,All IPP,IPP 3,Joburg Landfill Gas to Electricity - Robinson Deep,Landfill Gas Power,"Landfill Gas
+",http://www.saippa.org.za/,"Gauteng
+(-26.23335, 28.04073)"
+Erika Energy (RF) Pty Ltd,28,All IPP,IPP 1,Soutpan Solar Park,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Limpopo
+(-22.99167, 29.25167)"
+Eskom Holdings SOC,6,All Eskom,"Eskom
+",First Falls,Small Hydro Power,"Small Hydro
+",http://www.eskom.co.za/,"Eastern Cape
+(-31.600286, 28.817096)"
+Eskom Holdings SOC,42,All Eskom,"Eskom
+",Mbashe,Small Hydro Power,"Small Hydro
+",http://www.eskom.co.za/,"Eastern Cape
+(-32.000142, 28.581877)"
+Eskom Holdings SOC,2,All Eskom,"Eskom
+",Ncora,Small Hydro Power,"Small Hydro
+",http://www.eskom.co.za/,"Eastern Cape
+(-31.787391, 27.677779)"
+Eskom Holdings SOC,11,All Eskom,"Eskom
+",Second Falls,Small Hydro Power,"Small Hydro
+",http://www.eskom.co.za/,"Eastern Cape
+(-31.684884, 28.883228)"
+Eskom Holdings SOC,100,All Eskom,"Eskom
+",Sere Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.eskom.co.za/,"Western Cape
+(-31.496944, 18.063333)"
+Firefly Investments 230 (RF) Pty Ltd,60,All IPP,IPP 2,Boshoff Solar Park,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Free State
+(-28.455, 25.19278)"
+Firefly Investments 253 Pty Ltd,64,All IPP,IPP 1,Letsatsi Solar Photovoltaic Park,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Free State
+(-28.91917, 25.92028)"
+Gibson Bay Wind Farm (Pty) Ltd,110,All IPP,IPP 3,Red Cap - Gibson Bay,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-34.14111, 24.52444)"
+Grassridge Wind Power (RF) Pty Ltd,59.8,All IPP,IPP 2,Grassridge Onshore Wind Project,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-33.68475, 25.60471)"
+Ilangalethu Solar Power,100,All IPP,IPP 3,Ilanga CSP 1 / Karoshoek Solar One,Concentrated Solar Power,"Concentrated Solar Power with Storage (Min. 3 hours per Day)
+",http://www.saippa.org.za/,"Northern Cape
+(-28.48003, 21.53096)"
+Illovo Sugar (South Africa) Ltd,2,All Private Non-IPP,WEPS,Illovo Eston,Biomass Power,"Biomass
+",,"Kwazulu Natal
+(-26.224674, 28.187927)"
+Jasper Power Company Pty Ltd,75,All IPP,IPP 2,Jasper Power Company,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-28.31898, 23.35159)"
+Jeffreys Bay Wind Farm (RF) Pty Ltd,138,All IPP,IPP 1,Jeffreys Bay,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-34.0003, 24.8386)"
+Kakemas Hydro Electric Power (RF) Pty Ltd,10,All IPP,IPP 2,Neusberg Hydro Electrical Project,Small Hydro Power,"Small Hydro
+",http://www.saippa.org.za/,"Northern Cape
+(-28.76747, 20.73839)"
+Kaxu Solar One (RF) Pty Ltd,100,All IPP,IPP 1,Kaxu Solar One,Concentrated Solar Power,"Concentrated Solar Power with Storage (Min. 3 hours per Day)
+",http://www.saippa.org.za/,"Northern Cape
+(-28.88177, 19.59352)"
+Khi Solar One (RF) Pty Ltd,50,All IPP,IPP 1,Khi Solar One,Concentrated Solar Power,"Concentrated Solar Power with Storage (Min. 3 hours per Day)
+",http://www.saippa.org.za/,"Northern Cape
+(-28.53683, 21.07892)"
+Klipheuwel-Dassiefontein Wind Energy Facility (RF) Pty Ltd,27,All IPP,IPP 1,Dassieklip Wind Energy Facility,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Western Cape
+(-34.22679, 19.38084)"
+Limarco 77 (RF) Pty Ltd,9.65,All IPP,IPP 1,Konkoonsies Solar Energy Facility,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-28.8868, 19.55611)"
+Loeriesfontein 2 Wind Farm,138.23,All IPP,IPP 3,Loeriesfontein 2,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Northern Cape
+(-30.40083, 19.60121)"
+Longyuan Mulilo Green Energy De Aar 2 North Consortium,138.96,All IPP,IPP 3,Longyuan Mulilo Green Energy De Aar 2 North Wind Energy Facility,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Northern Cape
+(-30.53333, 24.26667)"
+Longyuan Mulilo Green Energy De Aar Maanhaarberg Consortium,96.48,All IPP,IPP 3,Longyuan Mulilo De Aar Maanhaarberg Wind Energy Facility,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Northern Cape
+(-30.73833, 23.86578)"
+L'Ormarins (Pty) Ltd,2.33,All Private Non-IPP,WEPS,"L'Ormarins Hydro facility
+",Small Hydro Power,"Small Hydro
+",,"Western Cape
+(-33.901458, 19.029993)"
+Mooi Hydro (Pty) Ltd,0.35,All Private Non-IPP,WEPS,Mooi Hydro,Small Hydro Power,"Small Hydro
+",,"Gauteng
+(-26.739213, 27.809657)"
+Mulilo Prieska PV,20,All IPP,IPP 1,Mulilo Solar PV Prieska,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-29.96766, 22.31968)"
+Mulilo Prieska PV (PTY) LTD,75,All IPP,IPP 3,Mulilo Prieska PV,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-30.0375, 22.31722)"
+Mulilo Renewable Energy Solar PV De Aar (RF) Pty Ltd,10,All IPP,IPP 1,Mulilo Solar PV De Aar,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-30.6279, 24.00545)"
+Mulilo Sonnedix Prieska PV (PTY) LTD,75,All IPP,IPP 3,Mulilo Sonnedix Prieska PV,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-30.02444, 22.36278)"
+Navosync (Pty) Ltd,16.5,All IPP,IPP 3,Mkuze,Biomass Power,"Biomass
+",http://www.saippa.org.za/,"Kwazulu Natal
+(-27.63256, 32.01561)"
+Oakleaf Investment Holding 79 (RF) Pty Ltd,64,All IPP,IPP 1,Lesedi Solar Photovoltaic Park,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-28.31417, 23.36528)"
+Pulida Energy (Pty) Ltd,75,All IPP,IPP 3,Pulida Solar Park,Photovoltaic Power,"Photovoltaic Thin Film Fixed
+",http://www.saippa.org.za/,"Free State
+(-29.08694, 24.90333)"
+Red Cap Wind Farm (RF) Pty Ltd,80,All IPP,IPP 1,Kouga Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-34.14656, 24.71723)"
+Renewable Energy Investments SA  (RF) Pty Ltd,75,All IPP,IPP 1,Kathu Solar Plant,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-27.61291, 23.02589)"
+Renewables Cookhouse Wind Farm 1 (RF) Pty Ltd,138.6,All IPP,IPP 1,Cookhouse Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-32.81176, 25.90558)"
+Rubicept (RF) Pty Ltd,27,All IPP,IPP 1,Metrowind Van Stadens Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-33.96222, 25.24444)"
+Rustmo1 Solar Farm  (RF) Pty Ltd,6.93,All IPP,IPP 1,RustMo1 Solar Farm,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"North West
+(-25.73717, 27.42019)"
+Scatec Solar Kalkbult (RF) Pty Ltd,72.5,All IPP,IPP 1,Kalkbult,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-30.16083, 24.13583)"
+Sevenstones 159 (RF) Pty Ltd,9.65,All IPP,IPP 1,Aries Solar Energy Facility,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-29.50201, 20.78208)"
+Simacel 155 (RF) Pty Ltd,36.8,All IPP,IPP 2,Linde,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-31.00139, 24.65528)"
+Simacel 1601 (RF) Pty Ltd,69.6,All IPP,IPP 2,Dreunberg,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Eastern Cape
+(-30.83333, 26.21083)"
+Slimsun (RF) Pty Ltd,5,All IPP,IPP 1,Slimsun Swartland Solar Park,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Western Cape
+(-33.35, 18.51667)"
+Solar Capital De Aar (RF) Pty Ltd,75,All IPP,IPP 1,Solar Capital De Aar,Photovoltaic Power,"Photovoltaic Thin Film Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-30.60475, 24.09524)"
+Solar Capital De Aar 3 (RF) Pty Ltd,75,All IPP,IPP 2,Solar Capital De Aar 3,Photovoltaic Power,"Photovoltaic Thin Film Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-30.60475, 24.09524)"
+South Africa Mainstream Renewable Power Khobab (Pty) Ltd,137.74,All IPP,IPP 3,Khobab Wind,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Northern Cape
+(-30.43841, 19.49156)"
+South Africa Mainstream Renewable Power Noupoort (Pty) Ltd,79.05,All IPP,IPP 3,Noupoort,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Northern Cape
+(-31.17744, 25.04757)"
+Stortmelk Hydro Pty Ltd,4.4,All IPP,IPP 2,Stortemelk Power Plant,Small Hydro Power,"Small Hydro
+",http://www.saippa.org.za/,"Free State
+(-28.4307, 28.38517)"
+Sublunary Trading (RF) Pty Ltd,8.9,All IPP,IPP 2,Upington Airport,Photovoltaic Power,"Photovoltaic Thin Film Fixed
+",http://www.saippa.org.za/,"Northern Cape
+(-28.4, 21.268)"
+Thaba Chweu Municipality,2.6,All Private Non-IPP,WEPS,Thaba Chweu Hydro,Small Hydro Power,"Small Hydro
+",,"Mpumalanga
+(-25.06655, 30.442753)"
+Tobivox (Pty) Ltd,60,All IPP,IPP 3,TOM BURKE SOLAR PARK,Photovoltaic Power,"Photovoltaic Thin Film Fixed
+",http://www.saippa.org.za/,"Limpopo
+(-23.07278, 27.98944)"
+Tongaat Hulett Sugar SA Ltd,5,All Private Non-IPP,WEPS,Tongaat Amatikulu,Biomass Power,"Biomass
+",,"Kwazulu Natal
+(-29.045193, 31.525656)"
+Tongaat Hulett Sugar SA Ltd,9,All Private Non-IPP,WEPS,Tongaat Felixton,Biomass Power,"Biomass
+",,"Kwazulu Natal
+(-28.834445, 31.890996)"
+TSB Sugar International,8,All Private Non-IPP,WEPS,Komati Mill,Biomass Power,"Biomass
+",,"Mpumalanga
+(-25.5544, 31.866333)"
+TSB Sugar International,4,All Private Non-IPP,WEPS,Malelane Mill,Biomass Power,"Biomass
+",,"Mpumalanga
+(-25.275112, 31.333889)"
+Tsitsikamma Community Wind Farm (RF) Pty Ltd,94.8,All IPP,IPP 2,Tsitsikamma Community Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-34.08445, 24.49889)"
+Umfolozi Sugar Mill Pty (Ltd),4.5,All Private Non-IPP,WEPS,Umfolozi Sugar Mill,Biomass Power,"Biomass
+",,"Kwazulu Natal
+(-28.442732, 32.184034)"
+Umoya Energy (RF) Pty Ltd,65.4,All IPP,IPP 1,Hopefield Wind Farm,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Western Cape
+(-33.09583, 18.40056)"
+Vredendal Solar Park (RF) Pty Ltd,8.82,All IPP,IPP 2,Vredendal Solar Park,Photovoltaic Power,"Photovoltaic Crystalline Fixed
+",http://www.saippa.org.za/,"Western Cape
+(-31.62594, 18.50843)"
+Waainek Wind Power (RF) Pty Ltd,23.28,All IPP,IPP 2,Waainek Wind Power,Onshore Wind Power,"Onshore Wind
+",http://www.saippa.org.za/,"Eastern Cape
+(-33.33387, 26.46914)"
+Windfall 59 Properties (RF) Pty Ltd,74,All IPP,IPP 2,Sishen Solar Facility,Photovoltaic Power,"Photovoltaic Crystalline Tracking Single Axis
+",http://www.saippa.org.za/,"Northern Cape
+(-27.58361, 22.93278)"
+Xina CSP Consortium,100,All IPP,IPP 3,!XiNa Solar One,Concentrated Solar Power,"Concentrated Solar Power with Storage (Min. 3 hours per Day)
+",http://www.saippa.org.za/,"Northern Cape
+(-28.88996, 19.59283)"
