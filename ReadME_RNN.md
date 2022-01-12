@@ -1,3 +1,4 @@
+# Sentiment analysis with Recurrent Neural Network
 Imported packages for loading  and processing the dataset, displaying visualizations and creating trainable models.
 
 Used a negative and positive book reviews data sets to train a recurrent neural network model , to predict whether a review was 'good' or 'bad', depending on the language used in the review title. 
